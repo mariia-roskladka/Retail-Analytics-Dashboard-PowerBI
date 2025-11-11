@@ -50,7 +50,7 @@ The report consists of **4 interactive pages**, each serving a specific analytic
 **Mariia Pokotylo**  
 Data Analyst | Power BI | Business Intelligence  
 Based in Ukraine  
-🔗 [LinkedIn Profile]([https://www.linkedin.com/in/](https://www.linkedin.com/in/mariia-pokotylo-6a894622b/))  
+🔗 [LinkedIn Profile]([https://www.linkedin.com/in/](https://www.linkedin.com/in/mariia-pokotylo-6a894622b/])
 🔗 [Portfolio Projects](https://github.com/mariia-roskladka/Retail-Analytics-Dashboard-PowerBI)
 
 ---
